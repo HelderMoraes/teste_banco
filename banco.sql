@@ -1,0 +1,6 @@
+CREATE TABLE medico(
+id_medico INT PRIMARY KEY AUTO_INCREMENT,
+nome VARCHAR(255),
+telefone VARCHAR(19),
+crm VARCHAR(20),
+);
